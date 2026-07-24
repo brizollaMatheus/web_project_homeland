@@ -57,15 +57,9 @@
     gap: 0;
   }
 
-  .intro__quote-text {
-  }
-
   .intro__quote-author {
     position: relative;
     top: -8px;
-  }
-
-  .intro__text {
   }
 }
 
