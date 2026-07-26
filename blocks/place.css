@@ -165,5 +165,7 @@
     justify-self: center;
     width: calc(100% - 32px);
     font-size: 14px;
+    white-space: normal;
+    text-align: center;
   }
 }
